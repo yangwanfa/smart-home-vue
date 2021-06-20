@@ -18,7 +18,7 @@
         @click="toggle"/>
 
       <span v-if="device === 'desktop'">欢迎进入 智能家具快速开发平台</span>
-      <span v-else>智能家具快速开发平台</span>
+      <span v-else>Jeecg-Boot</span>
 
       <user-menu :theme="theme"/>
     </div>

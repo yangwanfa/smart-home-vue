@@ -22,7 +22,7 @@ const app = {
     theme: '',
     layout: '',
     contentWidth: '',
-    fixedHeader: false,
+    fixedHeader: false,//用于固定顶部导航，方便页面切换。
     fixSiderbar: false,
     autoHideHeader: false,
     color: null,
